@@ -1,0 +1,4 @@
+In Python you can do anything.
+In Python you can write algorithms.
+In Python you can automate tasks.
+In Python you can lose your mind.

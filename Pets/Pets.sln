@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pets", "Pets.pyproj", "{D1EE443F-039E-44CD-B5E8-6F1EFE91DA0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1EE443F-039E-44CD-B5E8-6F1EFE91DA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EE443F-039E-44CD-B5E8-6F1EFE91DA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9D7FBE-A877-4013-864F-7F0E991692F0}
+	EndGlobalSection
+EndGlobal
